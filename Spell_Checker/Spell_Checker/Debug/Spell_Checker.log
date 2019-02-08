@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\dania\desktop\spell_checker\spell_checker\color.h(30): warning C4101: 'dwCursorPosition': unreferenced local variable
+c:\users\dania\desktop\spell_checker\spell_checker\source.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\dania\desktop\spell_checker\spell_checker\source.cpp(54): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\dania\desktop\spell_checker\spell_checker\source.cpp(91): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\dania\desktop\spell_checker\spell_checker\source.cpp(95): warning C4018: '>': signed/unsigned mismatch
+c:\users\dania\desktop\spell_checker\spell_checker\source.cpp(103): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\dania\desktop\spell_checker\spell_checker\source.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Spell_Checker.vcxproj -> C:\Users\dania\Desktop\Spell_Checker\Debug\Spell_Checker.exe
+  Spell_Checker.vcxproj -> C:\Users\dania\Desktop\Spell_Checker\Debug\Spell_Checker.pdb (Full PDB)
