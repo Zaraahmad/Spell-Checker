@@ -23,8 +23,6 @@ Your proposed improvements to the repository are most welcome.
 
 Also if you found it useful, please give it a star :D
 
-Have fun playing!
-
 ## License
 [MIT](../master/LICENSE)
 
